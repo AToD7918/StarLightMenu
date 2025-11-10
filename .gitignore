@@ -1,0 +1,12 @@
+# PyInstaller build files
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Temp rename folder
+public/img/_temp_rename/
+
+# Generated QR codes
+qr_codes/
